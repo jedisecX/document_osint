@@ -1,0 +1,4 @@
+# Optional. The tool runs without these; missing deps disable that format.
+pymupdf
+pytesseract
+Pillow

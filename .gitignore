@@ -1,0 +1,9 @@
+archive/
+incoming/
+*.db
+*.db.bak
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
